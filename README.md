@@ -1,6 +1,6 @@
-<div id="header" align="center">
-### Ciara Goddard
-</div>
+<h1 align="center">
+Ciara Goddard
+</h1>
 
 
 <div id="badges" align="center">
