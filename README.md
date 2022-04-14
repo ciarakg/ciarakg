@@ -20,4 +20,4 @@ I am a postgraduate student at the University of Glasgow
  - 🧩 Interested in data analysis and learning languages and tools
  - 🏑 In my free time I keep active and play sports
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ciarakg&layout=compact&theme=vision-friendly-dark)](https://github.com/anguraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ciarakg&layout=compact&theme=vision-friendly)](https://github.com/anguraghazra/github-readme-stats)
